@@ -15,3 +15,6 @@
 - I am trying to learn new things on the regular basis.
 
 ## _[My Portfolio](https://vcma.rf.gd/Portfolio)._
+
+## _My HactoberFest2023 Badges._
+[![An image of @vishanurag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishanurag)](https://holopin.io/@vishanurag)
