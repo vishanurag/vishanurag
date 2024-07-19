@@ -2,7 +2,7 @@
 
 ## _Welcome to my GitHub Profile._
 
-[![Author](https://ashstudy.000webhostapp.com/anurag/Assets/icons/faviconA.ico)](https://vcma.rf.gd/Portfolio) Created by: [Anurag Vishwakarma](https://github.com/vishanurag)
+[![Author](https://citiwebcast.web.app/favicon.ico)](https://vcma.rf.gd/Portfolio) Created by: [Anurag Vishwakarma](https://github.com/vishanurag)
 
 ## About Me
 
