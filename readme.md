@@ -40,13 +40,14 @@
 <!--
 [![An image of @vishanurag's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/vishanurag)](https://holopin.io/@vishanurag)
 -->
-<div style='display:flex; align-items:center; gap: 10px;' align='center'>
-<a  href="https://holopin.me/@vishanurag" ><img src="https://camo.githubusercontent.com/30d9c4e613cd3a3eecf7d7bf2bf24366e703605415e40e0e209314cd0849b856/68747470733a2f2f686f6c6f70696e2e6d652f76697368616e75726167" style="border-radius: 5%; height: 200px; width: 70%; min-width: 200px;" /> </a>
+<div style='display:flex; align-items:center; ' align='center'>
+<a  href="https://holopin.me/@vishanurag" ><img src="https://camo.githubusercontent.com/30d9c4e613cd3a3eecf7d7bf2bf24366e703605415e40e0e209314cd0849b856/68747470733a2f2f686f6c6f70696e2e6d652f76697368616e75726167" style="border-radius: 5%; max-height: 200px " /> </a>
 </div>
 
 ## 📊 _GitHub Stats:_
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishanurag&theme=dark&hide_border=false" height="140px" width="35%" style="min-width: 200px">  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"  width="25%" style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px" width="35%" style="min-width: 200px" >
-
+<div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=vishanurag&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"   style="min-width: 200px">
+</div>
 <!--
 ![](https://github-readme-streak-stats.herokuapp.com/?user=vishanurag&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 
