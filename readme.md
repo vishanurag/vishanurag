@@ -3,15 +3,6 @@
 #### _Welcome to my GitHub Profile._
 
 <!-- [![Author] Created by: [Anurag Vishwakarma](https://github.com/vishanurag) 
-
-## About Me
-
-- I am currently pursuring Diploma in Computer Science & Engineering from Dr. B.R. Ambedkar Polytechnic College, Gwalior.
-- I am currently in my 3rd year of Diploma course.
-- I mainly use to learn Web Development & also try to solve some DSA problems on weekends.
-- I am trying to learn new things on the regular basis.
-
-## _[My Portfolio](https://vcma.rf.gd/Portfolio)._
 -->
 ## 🌐 _Connect with me:_
 
@@ -48,18 +39,19 @@
 
 
 ## 📊 _GitHub Stats:_
+[![trophy](https://github-profile-trophy.vercel.app/?username=vishanurag)](https://github.com/vishanurag/github-profile-trophy)
 <div style="display: flex; flex-wrap: wrap; gap: 10px; align-items: center; justify-content: center;">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=vishanurag&theme=dark&hide_border=false" height="140px"  style="min-width: 200px"> <img src="https://github-readme-stats.vercel.app/api?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="140px"  style="min-width: 200px" >  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact"   style="min-width: 200px">
 </div>
+
 <!--
-![](https://github-readme-streak-stats.herokuapp.com/?user=vishanurag&theme=dark&hide_border=false) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact) ![](https://github-readme-stats.vercel.app/api?username=vishanurag&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
-
-
 ### 🔝 Top Contributed Repo
 
 ![](https://github-contributor-stats.vercel.app/api?username=vishanurag&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
 
--->
-
 [![](https://visitcount.itsvg.in/api?id=vishanurag&icon=0&color=0)](https://visitcount.itsvg.in)
-
+-->
+---
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=vishanurag&color=blueviolet&style=flat-square" alt="Profile Views" />
+</p>
