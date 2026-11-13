@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- Header Animated Banner -->
-  <img src="./assets/banner.gif" width="100%" alt="Anurag Vishwakarma Banner" />
+  <img src="./assets/banner.webp" width="100%" alt="Anurag Vishwakarma Banner" />
 
   <br/>
 
@@ -81,7 +81,7 @@
       </ul>
     </td>
     <td width="35%" align="center" valign="middle">
-      <img src="./assets/about_me.png" width="280" alt="Anurag Vishwakarma" />
+      <img src="./assets/about_me.webp" width="280" alt="Anurag Vishwakarma" />
     </td>
   </tr>
 </table>
@@ -121,7 +121,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/multitask.gif" width="140" alt="Work In Progress" />
+  <img src="./assets/multitask.webp" width="140" alt="Work In Progress" />
 </div>
 
 <br/>
@@ -166,7 +166,7 @@
 <br/>
 
 <div align="center">
-  <img src="./assets/coding_cat.gif" width="120" alt="Coding Cat Sticker" />
+  <img src="./assets/coding_cat.webp" width="120" alt="Coding Cat Sticker" />
 </div>
 
 <br/>
